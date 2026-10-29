@@ -1,0 +1,9 @@
+aven_project/
+├── README.md
+├── requirements.txt
+├── config.py
+├── app_controller.py
+├── voice.py
+├── assistant.py
+├── main.py
+└── .env.example
